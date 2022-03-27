@@ -26,7 +26,7 @@ function Footer() {
                  by   <a target="_blank" href='https://github.com/AswinAnand66'>Aswin Anandh</a>
                  <br/>
                  <p id='copyrights'>
-                     Hemanath © 2021
+                     Inspired from Hemanath
                  </p>
                 
             </p>

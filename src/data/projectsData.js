@@ -1,5 +1,6 @@
 import one from '../assets/svg/project/H&M.jpg'
 import two from '../assets/svg/project/Purplle_image.png'
+import three from '../assets/svg/project/pinterest.png'
 
 
 export const projectsData = [
@@ -20,6 +21,15 @@ export const projectsData = [
         code: 'https://github.com/AswinAnand66/Purplle_Replica.git',
         demo: 'https://purplle--clone.herokuapp.com/',
         image: two
+    },
+    {
+        id: 3,
+        projectName: 'Pinterest Replica',
+        projectDesc: 'This project is a clone on Pinterst Website, here we can upload the images and share the content among users.',
+        tags: ['MongoDb', 'Express.JS','React','Nodejs'],
+        code: 'https://github.com/AswinAnand66/team-pinterest.git',
+        demo: 'https://drive.google.com/file/d/1OL52hZ87m_QsOAG_BIJsXqsKklXUGIDL/view?usp=sharing',
+        image: three
     },
     
 ]
